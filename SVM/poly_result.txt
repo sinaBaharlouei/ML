@@ -1,0 +1,35 @@
+degree:1, gamma:0.001 accuracy:0.78101997897
+
+degree:1, gamma:0.01 accuracy:0.790746582545
+
+degree:1, gamma:0.1 accuracy:0.792060988433
+
+degree:2, gamma:0.001 accuracy:0.786803364879
+
+degree:2, gamma:0.01 accuracy:0.8349106204
+
+degree:2, gamma:0.1 accuracy:0.858569926393
+
+degree:3, gamma:0.001 accuracy:0.790483701367
+
+degree:3, gamma:0.01 accuracy:0.844900105152
+
+degree:3, gamma:0.1 accuracy:0.867770767613
+
+degree:4, gamma:0.001 accuracy:0.794952681388
+
+degree:4, gamma:0.01 accuracy:0.850683491062
+
+degree:4, gamma:0.1 accuracy:0.87039957939
+
+degree:5, gamma:0.001 accuracy:0.800210304942
+
+degree:5, gamma:0.01 accuracy:0.85436382755
+
+degree:5, gamma:0.1 accuracy:0.868822292324
+
+degree:6, gamma:0.001 accuracy:0.806256572029
+
+degree:6, gamma:0.01 accuracy:0.855678233438
+
+degree:6, gamma:0.1 accuracy:0.866456361725

@@ -1,0 +1,204 @@
+C:0.25, gamma:1e-10 accuracy:0.646161934805
+C:0.25, gamma:1e-09 accuracy:0.646161934805
+C:0.25, gamma:1e-08 accuracy:0.646161934805
+C:0.25, gamma:1e-07 accuracy:0.646161934805
+C:0.25, gamma:1e-06 accuracy:0.646161934805
+C:0.25, gamma:1e-05 accuracy:0.646161934805
+C:0.25, gamma:0.0001 accuracy:0.669032597266
+C:0.25, gamma:0.001 accuracy:0.770767613039
+C:0.25, gamma:0.01 accuracy:0.816246056782
+C:0.25, gamma:0.1 accuracy:0.865667718191
+C:0.25, gamma:1 accuracy:0.853049421661
+C:0.25, gamma:10 accuracy:0.646161934805
+C:0.25, gamma:100 accuracy:0.646161934805
+C:0.25, gamma:1000 accuracy:0.646161934805
+C:0.25, gamma:10000 accuracy:0.646161934805
+C:0.25, gamma:100000 accuracy:0.646161934805
+C:0.25, gamma:1000000 accuracy:0.646161934805
+C:0.25, gamma:10000000 accuracy:0.646161934805
+C:0.25, gamma:100000000 accuracy:0.646161934805
+C:0.25, gamma:1000000000 accuracy:0.646161934805
+C:0.25, gamma:10000000000 accuracy:0.646161934805
+C:0.5, gamma:1e-10 accuracy:0.646161934805
+C:0.5, gamma:1e-09 accuracy:0.646161934805
+C:0.5, gamma:1e-08 accuracy:0.646161934805
+C:0.5, gamma:1e-07 accuracy:0.646161934805
+C:0.5, gamma:1e-06 accuracy:0.646161934805
+C:0.5, gamma:1e-05 accuracy:0.646161934805
+C:0.5, gamma:0.0001 accuracy:0.701629863302
+C:0.5, gamma:0.001 accuracy:0.774710830705
+C:0.5, gamma:0.01 accuracy:0.832281808623
+C:0.5, gamma:0.1 accuracy:0.867507886435
+C:0.5, gamma:1 accuracy:0.86014721346
+C:0.5, gamma:10 accuracy:0.646161934805
+C:0.5, gamma:100 accuracy:0.646161934805
+C:0.5, gamma:1000 accuracy:0.646161934805
+C:0.5, gamma:10000 accuracy:0.646161934805
+C:0.5, gamma:100000 accuracy:0.646161934805
+C:0.5, gamma:1000000 accuracy:0.646161934805
+C:0.5, gamma:10000000 accuracy:0.646161934805
+C:0.5, gamma:100000000 accuracy:0.646161934805
+C:0.5, gamma:1000000000 accuracy:0.646161934805
+C:0.5, gamma:10000000000 accuracy:0.646161934805
+C:1, gamma:1e-10 accuracy:0.646161934805
+C:1, gamma:1e-09 accuracy:0.646161934805
+C:1, gamma:1e-08 accuracy:0.646161934805
+C:1, gamma:1e-07 accuracy:0.646161934805
+C:1, gamma:1e-06 accuracy:0.646161934805
+C:1, gamma:1e-05 accuracy:0.646161934805
+C:1, gamma:0.0001 accuracy:0.734752891693
+C:1, gamma:0.001 accuracy:0.778916929548
+C:1, gamma:0.01 accuracy:0.843059936909
+C:1, gamma:0.1 accuracy:0.867770767613
+C:1, gamma:1 accuracy:0.862513144059
+C:1, gamma:10 accuracy:0.66403785489
+C:1, gamma:100 accuracy:0.65483701367
+C:1, gamma:1000 accuracy:0.65483701367
+C:1, gamma:10000 accuracy:0.65483701367
+C:1, gamma:100000 accuracy:0.65483701367
+C:1, gamma:1000000 accuracy:0.65483701367
+C:1, gamma:10000000 accuracy:0.65483701367
+C:1, gamma:100000000 accuracy:0.65483701367
+C:1, gamma:1000000000 accuracy:0.65483701367
+C:1, gamma:10000000000 accuracy:0.65483701367
+C:2, gamma:1e-10 accuracy:0.646161934805
+C:2, gamma:1e-09 accuracy:0.646161934805
+C:2, gamma:1e-08 accuracy:0.646161934805
+C:2, gamma:1e-07 accuracy:0.646161934805
+C:2, gamma:1e-06 accuracy:0.646161934805
+C:2, gamma:1e-05 accuracy:0.656677181914
+C:2, gamma:0.0001 accuracy:0.761041009464
+C:2, gamma:0.001 accuracy:0.788117770768
+C:2, gamma:0.01 accuracy:0.850157728707
+C:2, gamma:0.1 accuracy:0.870136698212
+C:2, gamma:1 accuracy:0.861724500526
+C:2, gamma:10 accuracy:0.671661409043
+C:2, gamma:100 accuracy:0.65483701367
+C:2, gamma:1000 accuracy:0.65483701367
+C:2, gamma:10000 accuracy:0.65483701367
+C:2, gamma:100000 accuracy:0.65483701367
+C:2, gamma:1000000 accuracy:0.65483701367
+C:2, gamma:10000000 accuracy:0.65483701367
+C:2, gamma:100000000 accuracy:0.65483701367
+C:2, gamma:1000000000 accuracy:0.65483701367
+C:2, gamma:10000000000 accuracy:0.65483701367
+C:4, gamma:1e-10 accuracy:0.646161934805
+C:4, gamma:1e-09 accuracy:0.646161934805
+C:4, gamma:1e-08 accuracy:0.646161934805
+C:4, gamma:1e-07 accuracy:0.646161934805
+C:4, gamma:1e-06 accuracy:0.646161934805
+C:4, gamma:1e-05 accuracy:0.692954784437
+C:4, gamma:0.0001 accuracy:0.772344900105
+C:4, gamma:0.001 accuracy:0.792323869611
+C:4, gamma:0.01 accuracy:0.859095688749
+C:4, gamma:0.1 accuracy:0.870925341746
+C:4, gamma:1 accuracy:0.855415352261
+C:4, gamma:10 accuracy:0.671398527865
+C:4, gamma:100 accuracy:0.65483701367
+C:4, gamma:1000 accuracy:0.65483701367
+C:4, gamma:10000 accuracy:0.65483701367
+C:4, gamma:100000 accuracy:0.65483701367
+C:4, gamma:1000000 accuracy:0.65483701367
+C:4, gamma:10000000 accuracy:0.65483701367
+C:4, gamma:100000000 accuracy:0.65483701367
+C:4, gamma:1000000000 accuracy:0.65483701367
+C:4, gamma:10000000000 accuracy:0.65483701367
+C:8, gamma:1e-10 accuracy:0.646161934805
+C:8, gamma:1e-09 accuracy:0.646161934805
+C:8, gamma:1e-08 accuracy:0.646161934805
+C:8, gamma:1e-07 accuracy:0.646161934805
+C:8, gamma:1e-06 accuracy:0.646161934805
+C:8, gamma:1e-05 accuracy:0.720294426919
+C:8, gamma:0.0001 accuracy:0.776288117771
+C:8, gamma:0.001 accuracy:0.802050473186
+C:8, gamma:0.01 accuracy:0.861724500526
+C:8, gamma:0.1 accuracy:0.871188222923
+C:8, gamma:1 accuracy:0.845688748686
+C:8, gamma:10 accuracy:0.671398527865
+C:8, gamma:100 accuracy:0.65483701367
+C:8, gamma:1000 accuracy:0.65483701367
+C:8, gamma:10000 accuracy:0.65483701367
+C:8, gamma:100000 accuracy:0.65483701367
+C:8, gamma:1000000 accuracy:0.65483701367
+C:8, gamma:10000000 accuracy:0.65483701367
+C:8, gamma:100000000 accuracy:0.65483701367
+C:8, gamma:1000000000 accuracy:0.65483701367
+C:8, gamma:10000000000 accuracy:0.65483701367
+C:16, gamma:1e-10 accuracy:0.646161934805
+C:16, gamma:1e-09 accuracy:0.646161934805
+C:16, gamma:1e-08 accuracy:0.646161934805
+C:16, gamma:1e-07 accuracy:0.646161934805
+C:16, gamma:1e-06 accuracy:0.648264984227
+C:16, gamma:1e-05 accuracy:0.758412197687
+C:16, gamma:0.0001 accuracy:0.778128286015
+C:16, gamma:0.001 accuracy:0.813880126183
+C:16, gamma:0.01 accuracy:0.86356466877
+C:16, gamma:0.1 accuracy:0.871976866456
+C:16, gamma:1 accuracy:0.835699263933
+C:16, gamma:10 accuracy:0.671398527865
+C:16, gamma:100 accuracy:0.65483701367
+C:16, gamma:1000 accuracy:0.65483701367
+C:16, gamma:10000 accuracy:0.65483701367
+C:16, gamma:100000 accuracy:0.65483701367
+C:16, gamma:1000000 accuracy:0.65483701367
+C:16, gamma:10000000 accuracy:0.65483701367
+C:16, gamma:100000000 accuracy:0.65483701367
+C:16, gamma:1000000000 accuracy:0.65483701367
+C:16, gamma:10000000000 accuracy:0.65483701367
+C:32, gamma:1e-10 accuracy:0.646161934805
+C:32, gamma:1e-09 accuracy:0.646161934805
+C:32, gamma:1e-08 accuracy:0.646161934805
+C:32, gamma:1e-07 accuracy:0.646161934805
+C:32, gamma:1e-06 accuracy:0.684542586751
+C:32, gamma:1e-05 accuracy:0.772344900105
+C:32, gamma:0.0001 accuracy:0.781545741325
+C:32, gamma:0.001 accuracy:0.828075709779
+C:32, gamma:0.01 accuracy:0.864879074658
+C:32, gamma:0.1 accuracy:0.871976866456
+C:32, gamma:1 accuracy:0.827287066246
+C:32, gamma:10 accuracy:0.671398527865
+C:32, gamma:100 accuracy:0.65483701367
+C:32, gamma:1000 accuracy:0.65483701367
+C:32, gamma:10000 accuracy:0.65483701367
+C:32, gamma:100000 accuracy:0.65483701367
+C:32, gamma:1000000 accuracy:0.65483701367
+C:32, gamma:10000000 accuracy:0.65483701367
+C:32, gamma:100000000 accuracy:0.65483701367
+C:32, gamma:1000000000 accuracy:0.65483701367
+C:32, gamma:10000000000 accuracy:0.65483701367
+C:64, gamma:1e-10 accuracy:0.646161934805
+C:64, gamma:1e-09 accuracy:0.646161934805
+C:64, gamma:1e-08 accuracy:0.646161934805
+C:64, gamma:1e-07 accuracy:0.646161934805
+C:64, gamma:1e-06 accuracy:0.712670872766
+C:64, gamma:1e-05 accuracy:0.775499474238
+C:64, gamma:0.0001 accuracy:0.783648790747
+C:64, gamma:0.001 accuracy:0.83832807571
+C:64, gamma:0.01 accuracy:0.866193480547
+C:64, gamma:0.1 accuracy:0.869610935857
+
+-------------
+16, 1
+train data:
+correct: 11172 , incorrect: 240 , accuracy: 0.978969505783
+--------------------------------------------------
+validation data:
+correct: 3199 , incorrect: 605 , accuracy: 0.840956887487
+--------------------------------------------------
+test data:
+correct: 3232 , incorrect: 572 , accuracy: 0.849631966351
+--------------------------------------------------
+('supports:', array([2702, 2814], dtype=int32))
+--------------------------------------------------------------
+
+------------
+80% train
+train data:
+correct: 13569 , incorrect: 1647 , accuracy: 0.891758675079
+--------------------------------------------------
+validation data:
+correct: 1662 , incorrect: 240 , accuracy: 0.8738170347
+--------------------------------------------------
+test data:
+correct: 1666 , incorrect: 236 , accuracy: 0.875920084122
+--------------------------------------------------
